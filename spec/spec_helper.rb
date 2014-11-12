@@ -8,7 +8,7 @@ end
 require 'bundler/setup'
 
 require 'rspec'
-require 'mocha'
+require 'mocha/api'
 require 'bourne'
 require 'vcr'
 
